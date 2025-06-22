@@ -1,0 +1,896 @@
+
+
+=== Análise Estatística - Disciplina: PROCESSAMENTO DE LINGUAGEM NATURAL ===
+Média: 5.50
+Mediana: 5.50
+Moda: 5.5
+Desvio Padrão: nan
+Coeficiente de Variação (CV): nan%
+Assimetria (Skewness): nan
+Curtose (Kurtosis): nan
+Nota Mínima: 5.50
+Nota Máxima: 5.50
+Quartis:
+0.25    5.5
+0.50    5.5
+0.75    5.5
+
+
+=== Análise Estatística - Disciplina: SEGURANÇA EM SISTEMAS ===
+Média: 5.91
+Mediana: 5.73
+Moda: 5.7333333333333325
+Desvio Padrão: 0.65
+Coeficiente de Variação (CV): 11.06%
+Assimetria (Skewness): 1.81
+Curtose (Kurtosis): 3.83
+Nota Mínima: 5.03
+Nota Máxima: 7.95
+Quartis:
+0.25    5.73
+0.50    5.73
+0.75    5.90
+
+
+=== Análise Estatística - Disciplina: SISTEMAS DISTRIBUÍDOS ===
+Média: 5.77
+Mediana: 5.58
+Moda: 5.583333333333334
+Desvio Padrão: 0.35
+Coeficiente de Variação (CV): 6.14%
+Assimetria (Skewness): 1.71
+Curtose (Kurtosis): 1.57
+Nota Mínima: 5.58
+Nota Máxima: 6.68
+Quartis:
+0.25    5.58
+0.50    5.58
+0.75    5.67
+
+
+=== Análise Estatística - Disciplina: TÓPICOS EM ENGENHARIA DE SOFTWARE ===
+Média: 5.97
+Mediana: 5.72
+Moda: 5.2666666666666675
+Desvio Padrão: 0.86
+Coeficiente de Variação (CV): 14.44%
+Assimetria (Skewness): 0.50
+Curtose (Kurtosis): -1.50
+Nota Mínima: 5.27
+Nota Máxima: 6.93
+Quartis:
+0.25    5.49
+0.50    5.72
+0.75    6.32
+
+
+=== Análise Estatística - Disciplina: COMPUTAÇÃO GRÁFICA ===
+Média: 5.41
+Mediana: 5.17
+Moda: 4.25
+Desvio Padrão: 1.32
+Coeficiente de Variação (CV): 24.42%
+Assimetria (Skewness): 1.01
+Curtose (Kurtosis): -0.38
+Nota Mínima: 4.25
+Nota Máxima: 7.60
+Quartis:
+0.25    4.53
+0.50    5.17
+0.75    5.48
+
+
+=== Análise Estatística - Disciplina: SISTEMAS OPERACIONAIS ===
+Média: 5.51
+Mediana: 5.60
+Moda: 3.6833333333333336
+Desvio Padrão: 1.12
+Coeficiente de Variação (CV): 20.42%
+Assimetria (Skewness): -0.56
+Curtose (Kurtosis): -0.91
+Nota Mínima: 3.68
+Nota Máxima: 6.62
+Quartis:
+0.25    5.04
+0.50    5.60
+0.75    6.42
+
+
+=== Análise Estatística - Disciplina: TÓPICOS EM BIOINFORMÁTICA ===
+Média: 5.49
+Mediana: 5.05
+Moda: 5.050000000000001
+Desvio Padrão: 0.72
+Coeficiente de Variação (CV): 13.11%
+Assimetria (Skewness): 1.34
+Curtose (Kurtosis): 0.50
+Nota Mínima: 5.05
+Nota Máxima: 7.25
+Quartis:
+0.25    5.05
+0.50    5.05
+0.75    5.86
+
+
+=== Análise Estatística - Disciplina: ELETRICIDADE E MAGNETISMO ===
+Média: 4.17
+Mediana: 4.17
+Moda: 0.0
+Desvio Padrão: 5.89
+Coeficiente de Variação (CV): 141.42%
+Assimetria (Skewness): 0.00
+Curtose (Kurtosis): -2.00
+Nota Mínima: 0.00
+Nota Máxima: 8.33
+Quartis:
+0.25    2.08
+0.50    4.17
+0.75    6.25
+
+
+=== Análise Estatística - Disciplina: ENGENHARIA DE SOFTWARE II ===
+Média: 6.44
+Mediana: 6.25
+Moda: 5.583333333333334
+Desvio Padrão: 0.69
+Coeficiente de Variação (CV): 10.75%
+Assimetria (Skewness): 0.23
+Curtose (Kurtosis): -1.07
+Nota Mínima: 5.58
+Nota Máxima: 7.40
+Quartis:
+0.25    6.15
+0.50    6.25
+0.75    6.82
+
+
+=== Análise Estatística - Disciplina: INTELIGÊNCIA ARTIFICIAL ===
+Média: 5.62
+Mediana: 5.58
+Moda: 4.5
+Desvio Padrão: 0.72
+Coeficiente de Variação (CV): 12.82%
+Assimetria (Skewness): -0.16
+Curtose (Kurtosis): -0.61
+Nota Mínima: 4.50
+Nota Máxima: 6.63
+Quartis:
+0.25    5.38
+0.50    5.58
+0.75    5.97
+
+
+=== Análise Estatística - Disciplina: COMPILADORES ===
+Média: 5.91
+Mediana: 5.96
+Moda: 4.733333333333333
+Desvio Padrão: 0.78
+Coeficiente de Variação (CV): 13.25%
+Assimetria (Skewness): -0.22
+Curtose (Kurtosis): -0.92
+Nota Mínima: 4.73
+Nota Máxima: 6.95
+Quartis:
+0.25    5.52
+0.50    5.96
+0.75    6.37
+
+
+=== Análise Estatística - Disciplina: ENGENHARIA DE SOFTWARE I ===
+Média: 6.47
+Mediana: 6.33
+Moda: 6.116666666666666
+Desvio Padrão: 0.44
+Coeficiente de Variação (CV): 6.82%
+Assimetria (Skewness): 0.52
+Curtose (Kurtosis): -1.50
+Nota Mínima: 6.12
+Nota Máxima: 6.97
+Quartis:
+0.25    6.22
+0.50    6.33
+0.75    6.65
+
+
+=== Análise Estatística - Disciplina: LINGUAGENS DE PROGRAMAÇÃO ===
+Média: 5.92
+Mediana: 5.80
+Moda: 5.800000000000001
+Desvio Padrão: 1.02
+Coeficiente de Variação (CV): 17.20%
+Assimetria (Skewness): 0.24
+Curtose (Kurtosis): 1.91
+Nota Mínima: 3.47
+Nota Máxima: 8.28
+Quartis:
+0.25    5.8
+0.50    5.8
+0.75    5.8
+
+
+=== Análise Estatística - Disciplina: SISTEMAS EMBARCADOS ===
+Média: 6.77
+Mediana: 6.77
+Moda: 6.516666666666667
+Desvio Padrão: 0.35
+Coeficiente de Variação (CV): 5.22%
+Assimetria (Skewness): 0.00
+Curtose (Kurtosis): -2.00
+Nota Mínima: 6.52
+Nota Máxima: 7.02
+Quartis:
+0.25    6.64
+0.50    6.77
+0.75    6.89
+
+
+=== Análise Estatística - Disciplina: PROCESSAMENTO DIGITAL DE IMAGENS ===
+Média: 6.23
+Mediana: 5.96
+Moda: 5.183333333333334
+Desvio Padrão: 1.22
+Coeficiente de Variação (CV): 19.58%
+Assimetria (Skewness): 0.48
+Curtose (Kurtosis): -1.37
+Nota Mínima: 5.18
+Nota Máxima: 7.82
+Quartis:
+0.25    5.32
+0.50    5.96
+0.75    6.87
+
+
+=== Análise Estatística - Disciplina: REDES DE COMPUTADORES ===
+Média: 6.00
+Mediana: 6.23
+Moda: 4.283333333333333
+Desvio Padrão: 1.32
+Coeficiente de Variação (CV): 22.00%
+Assimetria (Skewness): -0.05
+Curtose (Kurtosis): -1.16
+Nota Mínima: 4.28
+Nota Máxima: 7.72
+Quartis:
+0.25    5.18
+0.50    6.23
+0.75    6.60
+
+
+=== Análise Estatística - Disciplina: TEORIA DA COMPUTAÇÃO ===
+Média: 6.07
+Mediana: 6.53
+Moda: 3.5166666666666666
+Desvio Padrão: 1.20
+Coeficiente de Variação (CV): 19.69%
+Assimetria (Skewness): -1.60
+Curtose (Kurtosis): 1.18
+Nota Mínima: 3.52
+Nota Máxima: 7.02
+Quartis:
+0.25    5.98
+0.50    6.53
+0.75    6.75
+
+
+=== Análise Estatística - Disciplina: ARQUITETURA DE COMPUTADORES ===
+Média: 4.86
+Mediana: 5.22
+Moda: 3.7833333333333337
+Desvio Padrão: 0.94
+Coeficiente de Variação (CV): 19.46%
+Assimetria (Skewness): -0.60
+Curtose (Kurtosis): -1.50
+Nota Mínima: 3.78
+Nota Máxima: 5.57
+Quartis:
+0.25    4.50
+0.50    5.22
+0.75    5.39
+
+
+=== Análise Estatística - Disciplina: PROGRAMAÇÃO LINEAR ===
+Média: 6.16
+Mediana: 6.12
+Moda: 5.216666666666667
+Desvio Padrão: 0.58
+Coeficiente de Variação (CV): 9.45%
+Assimetria (Skewness): -0.43
+Curtose (Kurtosis): -0.73
+Nota Mínima: 5.22
+Nota Máxima: 6.80
+Quartis:
+0.25    5.99
+0.50    6.12
+0.75    6.60
+
+
+=== Análise Estatística - Disciplina: PROJETO E ANÁLISE DE ALGORITMOS ===
+Média: 6.13
+Mediana: 6.07
+Moda: 5.183333333333334
+Desvio Padrão: 0.75
+Coeficiente de Variação (CV): 12.17%
+Assimetria (Skewness): 0.33
+Curtose (Kurtosis): -1.00
+Nota Mínima: 5.18
+Nota Máxima: 7.33
+Quartis:
+0.25    5.58
+0.50    6.07
+0.75    6.57
+
+
+=== Análise Estatística - Disciplina: ÁLGEBRA LINEAR ===
+Média: 5.95
+Mediana: 6.13
+Moda: 3.9000000000000004
+Desvio Padrão: 0.88
+Coeficiente de Variação (CV): 14.82%
+Assimetria (Skewness): -0.64
+Curtose (Kurtosis): 0.20
+Nota Mínima: 3.90
+Nota Máxima: 7.38
+Quartis:
+0.25    5.38
+0.50    6.13
+0.75    6.45
+
+
+=== Análise Estatística - Disciplina: BANCO DE DADOS ===
+Média: 5.61
+Mediana: 5.72
+Moda: 5.683333333333334
+Desvio Padrão: 1.01
+Coeficiente de Variação (CV): 17.92%
+Assimetria (Skewness): -1.19
+Curtose (Kurtosis): 1.36
+Nota Mínima: 3.32
+Nota Máxima: 6.98
+Quartis:
+0.25    5.68
+0.50    5.72
+0.75    5.82
+
+
+=== Análise Estatística - Disciplina: INTERFACE HUMANO COMPUTADOR ===
+Média: 8.71
+Mediana: 8.33
+Moda: 8.033333333333333
+Desvio Padrão: 0.75
+Coeficiente de Variação (CV): 8.66%
+Assimetria (Skewness): 0.38
+Curtose (Kurtosis): -1.66
+Nota Mínima: 8.03
+Nota Máxima: 9.87
+Quartis:
+0.25    8.03
+0.50    8.33
+0.75    9.50
+
+
+=== Análise Estatística - Disciplina: PROBABILIDADE E ESTATÍSTICA ===
+Média: 5.42
+Mediana: 5.40
+Moda: 5.4
+Desvio Padrão: 0.16
+Coeficiente de Variação (CV): 2.97%
+Assimetria (Skewness): -0.45
+Curtose (Kurtosis): 1.59
+Nota Mínima: 5.03
+Nota Máxima: 5.70
+Quartis:
+0.25    5.4
+0.50    5.4
+0.75    5.4
+
+
+=== Análise Estatística - Disciplina: TEORIA E APLICAÇÕES EM GRAFOS ===
+Média: 6.90
+Mediana: 6.90
+Moda: 6.9
+Desvio Padrão: nan
+Coeficiente de Variação (CV): nan%
+Assimetria (Skewness): nan
+Curtose (Kurtosis): nan
+Nota Mínima: 6.90
+Nota Máxima: 6.90
+Quartis:
+0.25    6.9
+0.50    6.9
+0.75    6.9
+
+
+=== Análise Estatística - Disciplina: CÁLCULO DIFERENCIAL E INTEGRAL II ===
+Média: 5.69
+Mediana: 6.17
+Moda: 2.9499999999999997
+Desvio Padrão: 1.27
+Coeficiente de Variação (CV): 22.24%
+Assimetria (Skewness): -1.46
+Curtose (Kurtosis): 0.80
+Nota Mínima: 2.95
+Nota Máxima: 6.83
+Quartis:
+0.25    5.55
+0.50    6.17
+0.75    6.40
+
+
+=== Análise Estatística - Disciplina: CIRCUITOS DIGITAIS ===
+Média: 6.17
+Mediana: 6.17
+Moda: 5.683333333333334
+Desvio Padrão: 0.68
+Coeficiente de Variação (CV): 11.08%
+Assimetria (Skewness): 0.00
+Curtose (Kurtosis): -2.00
+Nota Mínima: 5.68
+Nota Máxima: 6.65
+Quartis:
+0.25    5.93
+0.50    6.17
+0.75    6.41
+
+
+=== Análise Estatística - Disciplina: ESTRUTURAS DE DADOS ===
+Média: 5.67
+Mediana: 5.68
+Moda: 6.783333333333333
+Desvio Padrão: 0.91
+Coeficiente de Variação (CV): 15.99%
+Assimetria (Skewness): -1.57
+Curtose (Kurtosis): 2.97
+Nota Mínima: 3.13
+Nota Máxima: 6.78
+Quartis:
+0.25    5.48
+0.50    5.68
+0.75    6.05
+
+
+=== Análise Estatística - Disciplina: LABORATÓRIO DE PROGRAMAÇÃO ===
+Média: 6.21
+Mediana: 6.33
+Moda: 5.566666666666666
+Desvio Padrão: 0.59
+Coeficiente de Variação (CV): 9.44%
+Assimetria (Skewness): -0.38
+Curtose (Kurtosis): -1.50
+Nota Mínima: 5.57
+Nota Máxima: 6.72
+Quartis:
+0.25    5.95
+0.50    6.33
+0.75    6.52
+
+
+=== Análise Estatística - Disciplina: MATEMÁTICA DISCRETA ===
+Média: 5.83
+Mediana: 5.83
+Moda: 5.833333333333333
+Desvio Padrão: nan
+Coeficiente de Variação (CV): nan%
+Assimetria (Skewness): nan
+Curtose (Kurtosis): nan
+Nota Mínima: 5.83
+Nota Máxima: 5.83
+Quartis:
+0.25    5.83
+0.50    5.83
+0.75    5.83
+
+
+=== Análise Estatística - Disciplina: PROGRAMAÇÃO ORIENTADA A OBJETOS ===
+Média: 5.90
+Mediana: 5.97
+Moda: 2.8333333333333335
+Desvio Padrão: 1.14
+Coeficiente de Variação (CV): 19.42%
+Assimetria (Skewness): -1.74
+Curtose (Kurtosis): 2.95
+Nota Mínima: 2.83
+Nota Máxima: 7.33
+Quartis:
+0.25    5.80
+0.50    5.97
+0.75    6.51
+
+
+=== Análise Estatística - Disciplina: CÁLCULO DIFERENCIAL E INTEGRAL I ===
+Média: 5.61
+Mediana: 5.67
+Moda: 5.666666666666666
+Desvio Padrão: 0.17
+Coeficiente de Variação (CV): 3.10%
+Assimetria (Skewness): -2.67
+Curtose (Kurtosis): 5.11
+Nota Mínima: 5.12
+Nota Máxima: 5.67
+Quartis:
+0.25    5.67
+0.50    5.67
+0.75    5.67
+
+
+=== Análise Estatística - Disciplina: INFORMÁTICA E SOCIEDADE ===
+Média: 8.10
+Mediana: 7.65
+Moda: 7.5
+Desvio Padrão: 1.02
+Coeficiente de Variação (CV): 12.62%
+Assimetria (Skewness): -0.73
+Curtose (Kurtosis): 0.94
+Nota Mínima: 5.07
+Nota Máxima: 9.67
+Quartis:
+0.25    7.50
+0.50    7.65
+0.75    9.00
+
+
+=== Análise Estatística - Disciplina: INGLÊS TÉCNICO E CIENTÍFICO ===
+Média: 6.20
+Mediana: 6.20
+Moda: 6.2
+Desvio Padrão: nan
+Coeficiente de Variação (CV): nan%
+Assimetria (Skewness): nan
+Curtose (Kurtosis): nan
+Nota Mínima: 6.20
+Nota Máxima: 6.20
+Quartis:
+0.25    6.2
+0.50    6.2
+0.75    6.2
+
+
+=== Análise Estatística - Disciplina: INTRODUÇÃO À LÓGICA ===
+Média: 6.22
+Mediana: 6.19
+Moda: 5.766666666666667
+Desvio Padrão: 0.48
+Coeficiente de Variação (CV): 7.66%
+Assimetria (Skewness): 0.26
+Curtose (Kurtosis): -1.50
+Nota Mínima: 5.68
+Nota Máxima: 6.95
+Quartis:
+0.25    5.78
+0.50    6.19
+0.75    6.64
+
+
+=== Análise Estatística - Disciplina: INTRODUÇÃO À METODOLOGIA CIENTÍFICA ===
+Média: 6.19
+Mediana: 6.19
+Moda: 5.633333333333333
+Desvio Padrão: 0.79
+Coeficiente de Variação (CV): 12.75%
+Assimetria (Skewness): 0.00
+Curtose (Kurtosis): -2.00
+Nota Mínima: 5.63
+Nota Máxima: 6.75
+Quartis:
+0.25    5.91
+0.50    6.19
+0.75    6.47
+
+
+=== Análise Estatística - Disciplina: PROGRAMAÇÃO ESTRUTURADA ===
+Média: 5.79
+Mediana: 5.95
+Moda: 5.083333333333334
+Desvio Padrão: 0.91
+Coeficiente de Variação (CV): 15.68%
+Assimetria (Skewness): -0.11
+Curtose (Kurtosis): 0.55
+Nota Mínima: 3.45
+Nota Máxima: 7.82
+Quartis:
+0.25    5.08
+0.50    5.95
+0.75    6.18
+
+
+=== Análise Estatística - Disciplina: SEMINÁRIOS DE INTRODUÇÃO AO CURSO ===
+Média: 9.44
+Mediana: 9.50
+Moda: 10.0
+Desvio Padrão: 0.64
+Coeficiente de Variação (CV): 6.74%
+Assimetria (Skewness): -0.73
+Curtose (Kurtosis): -0.56
+Nota Mínima: 8.00
+Nota Máxima: 10.00
+Quartis:
+0.25     9.0
+0.50     9.5
+0.75    10.0
+
+
+=== Análise Estatística - Disciplina: BANCOS DE DADOS RELACIONAIS ===
+Média: 5.17
+Mediana: 5.44
+Moda: 3.7
+Desvio Padrão: 1.05
+Coeficiente de Variação (CV): 20.23%
+Assimetria (Skewness): -0.75
+Curtose (Kurtosis): -0.98
+Nota Mínima: 3.70
+Nota Máxima: 6.08
+Quartis:
+0.25    4.81
+0.50    5.44
+0.75    5.80
+
+
+=== Análise Estatística - Disciplina: RELAÇÕES ÉTNICO-RACIAIS, GÊNERO E DIVERSIDADE ===
+Média: 5.72
+Mediana: 5.72
+Moda: 5.05
+Desvio Padrão: 0.94
+Coeficiente de Variação (CV): 16.49%
+Assimetria (Skewness): -0.00
+Curtose (Kurtosis): -2.00
+Nota Mínima: 5.05
+Nota Máxima: 6.38
+Quartis:
+0.25    5.38
+0.50    5.72
+0.75    6.05
+
+
+=== Análise Estatística - Disciplina: VISÃO COMPUTACIONAL ===
+Média: 5.46
+Mediana: 5.94
+Moda: 3.666666666666667
+Desvio Padrão: 1.22
+Coeficiente de Variação (CV): 22.35%
+Assimetria (Skewness): -1.03
+Curtose (Kurtosis): -0.78
+Nota Mínima: 3.67
+Nota Máxima: 6.30
+Quartis:
+0.25    5.22
+0.50    5.94
+0.75    6.19
+
+
+=== Análise Estatística - Disciplina: TRABALHO DE CONCLUSÃO DE CURSO II - TCC II ===
+Média: 9.63
+Mediana: 10.00
+Moda: 10.0
+Desvio Padrão: 0.48
+Coeficiente de Variação (CV): 4.99%
+Assimetria (Skewness): -0.56
+Curtose (Kurtosis): -1.64
+Nota Mínima: 9.00
+Nota Máxima: 10.00
+Quartis:
+0.25     9.0
+0.50    10.0
+0.75    10.0
+
+
+=== Análise Estatística - Disciplina: TÓPICOS EM ARQUITETURA DE COMPUTADORES ===
+Média: 7.52
+Mediana: 7.52
+Moda: 6.8
+Desvio Padrão: 1.01
+Coeficiente de Variação (CV): 13.48%
+Assimetria (Skewness): 0.00
+Curtose (Kurtosis): -2.00
+Nota Mínima: 6.80
+Nota Máxima: 8.23
+Quartis:
+0.25    7.16
+0.50    7.52
+0.75    7.87
+
+
+=== Análise Estatística - Disciplina: TÓPICOS EM COMPUTAÇÃO APLICADA ===
+Média: 6.90
+Mediana: 6.90
+Moda: 6.9
+Desvio Padrão: nan
+Coeficiente de Variação (CV): nan%
+Assimetria (Skewness): nan
+Curtose (Kurtosis): nan
+Nota Mínima: 6.90
+Nota Máxima: 6.90
+Quartis:
+0.25    6.9
+0.50    6.9
+0.75    6.9
+
+
+=== Análise Estatística - Disciplina: TÓPICOS EM REDES DE COMPUTADORES ===
+Média: 5.40
+Mediana: 5.78
+Moda: 3.2
+Desvio Padrão: 1.65
+Coeficiente de Variação (CV): 30.49%
+Assimetria (Skewness): -0.56
+Curtose (Kurtosis): -1.26
+Nota Mínima: 3.20
+Nota Máxima: 6.82
+Quartis:
+0.25    4.61
+0.50    5.78
+0.75    6.57
+
+
+=== Análise Estatística - Disciplina: EMPREENDEDORISMO ===
+Média: 7.53
+Mediana: 7.53
+Moda: 7.533333333333333
+Desvio Padrão: nan
+Coeficiente de Variação (CV): nan%
+Assimetria (Skewness): nan
+Curtose (Kurtosis): nan
+Nota Mínima: 7.53
+Nota Máxima: 7.53
+Quartis:
+0.25    7.53
+0.50    7.53
+0.75    7.53
+
+
+=== Análise Estatística - Disciplina: PROGRAMAÇÃO FUNCIONAL ===
+Média: 5.66
+Mediana: 5.47
+Moda: 5.466666666666667
+Desvio Padrão: 0.52
+Coeficiente de Variação (CV): 9.13%
+Assimetria (Skewness): -0.09
+Curtose (Kurtosis): 0.47
+Nota Mínima: 4.48
+Nota Máxima: 6.65
+Quartis:
+0.25    5.47
+0.50    5.47
+0.75    6.06
+
+
+=== Análise Estatística - Disciplina: ESTÁGIO SUPERVISIONADO ===
+Média: 6.28
+Mediana: 6.28
+Moda: 5.6
+Desvio Padrão: 0.97
+Coeficiente de Variação (CV): 15.38%
+Assimetria (Skewness): 0.00
+Curtose (Kurtosis): -2.00
+Nota Mínima: 5.60
+Nota Máxima: 6.97
+Quartis:
+0.25    5.94
+0.50    6.28
+0.75    6.62
+
+
+=== Análise Estatística - Disciplina: TRABALHO DE CONCLUSÃO DE CURSO I - TCC I ===
+Média: 5.50
+Mediana: 5.50
+Moda: 5.5
+Desvio Padrão: nan
+Coeficiente de Variação (CV): nan%
+Assimetria (Skewness): nan
+Curtose (Kurtosis): nan
+Nota Mínima: 5.50
+Nota Máxima: 5.50
+Quartis:
+0.25    5.5
+0.50    5.5
+0.75    5.5
+
+
+=== Análise Estatística - Disciplina: TÓPICOS EM PROGRAMAÇÃO ===
+Média: 6.97
+Mediana: 6.97
+Moda: 5.65
+Desvio Padrão: 1.86
+Coeficiente de Variação (CV): 26.73%
+Assimetria (Skewness): 0.00
+Curtose (Kurtosis): -2.00
+Nota Mínima: 5.65
+Nota Máxima: 8.28
+Quartis:
+0.25    6.31
+0.50    6.97
+0.75    7.62
+
+
+=== Análise Estatística - Disciplina: FLUXOS EM REDES ===
+Média: 5.70
+Mediana: 5.45
+Moda: 5.25
+Desvio Padrão: 0.63
+Coeficiente de Variação (CV): 11.04%
+Assimetria (Skewness): 1.22
+Curtose (Kurtosis): -0.16
+Nota Mínima: 5.25
+Nota Máxima: 6.78
+Quartis:
+0.25    5.32
+0.50    5.45
+0.75    5.72
+
+
+=== Análise Estatística - Disciplina: REDES NEURAIS ARTIFICIAIS ===
+Média: 5.53
+Mediana: 5.53
+Moda: 5.3
+Desvio Padrão: 0.32
+Coeficiente de Variação (CV): 5.76%
+Assimetria (Skewness): -0.00
+Curtose (Kurtosis): -2.00
+Nota Mínima: 5.30
+Nota Máxima: 5.75
+Quartis:
+0.25    5.41
+0.50    5.52
+0.75    5.64
+
+
+=== Análise Estatística - Disciplina: REDES DE COMUNICAÇÃO SEM FIO ===
+Média: 6.98
+Mediana: 6.98
+Moda: 6.983333333333333
+Desvio Padrão: nan
+Coeficiente de Variação (CV): nan%
+Assimetria (Skewness): nan
+Curtose (Kurtosis): nan
+Nota Mínima: 6.98
+Nota Máxima: 6.98
+Quartis:
+0.25    6.98
+0.50    6.98
+0.75    6.98
+
+
+=== Análise Estatística - Disciplina: MÉTODOS NUMÉRICOS ===
+Média: 5.41
+Mediana: 5.40
+Moda: 4.6000000000000005
+Desvio Padrão: 0.82
+Coeficiente de Variação (CV): 15.09%
+Assimetria (Skewness): 0.02
+Curtose (Kurtosis): -1.50
+Nota Mínima: 4.60
+Nota Máxima: 6.23
+Quartis:
+0.25    5.00
+0.50    5.40
+0.75    5.82
+
+
+=== Análise Estatística - Disciplina: TÓPICOS EM SISTEMAS COMPUTACIONAIS ===
+Média: 5.85
+Mediana: 5.85
+Moda: 5.85
+Desvio Padrão: nan
+Coeficiente de Variação (CV): nan%
+Assimetria (Skewness): nan
+Curtose (Kurtosis): nan
+Nota Mínima: 5.85
+Nota Máxima: 5.85
+Quartis:
+0.25    5.85
+0.50    5.85
+0.75    5.85
+
+
+=== Análise Estatística - Disciplina: TRABLO DE CONCLUSÃO DE CURSO II - TCC II ===
+Média: 10.00
+Mediana: 10.00
+Moda: 10.0
+Desvio Padrão: 0.00
+Coeficiente de Variação (CV): 0.00%
+Assimetria (Skewness): nan
+Curtose (Kurtosis): nan
+Nota Mínima: 10.00
+Nota Máxima: 10.00
+Quartis:
+0.25    10.0
+0.50    10.0
+0.75    10.0

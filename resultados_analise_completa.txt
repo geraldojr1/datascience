@@ -1,0 +1,87 @@
+==================================================
+--- RESULTADOS DA ANÁLISE COMPLETA ---
+==================================================
+
+Análise 5: Análise de Aprovação e Reprovação
+=============================================
+
+5.1: Percentual de Sucesso por Disciplina
+-----------------------------------
+Situação                                       Aprovado     RF  Reprovado
+Disciplina                                                               
+ARQUITETURA DE COMPUTADORES                       72.41   6.90      20.69
+BANCO DE DADOS                                    74.36   2.56      23.08
+BANCOS DE DADOS RELACIONAIS                       79.17   8.33      12.50
+CIRCUITOS DIGITAIS                                96.15   0.00       3.85
+COMPILADORES                                      85.19   0.00      14.81
+COMPUTAÇÃO GRÁFICA                                82.14   3.57      14.29
+CÁLCULO DIFERENCIAL E INTEGRAL I                  97.14   0.00       2.86
+CÁLCULO DIFERENCIAL E INTEGRAL II                 79.49   2.56      17.95
+ELETRICIDADE E MAGNETISMO                         50.00  50.00       0.00
+EMPREENDEDORISMO                                 100.00   0.00       0.00
+ENGENHARIA DE SOFTWARE I                         100.00   0.00       0.00
+ENGENHARIA DE SOFTWARE II                         90.00   3.33       6.67
+ESTRUTURAS DE DADOS                               72.50   5.00      22.50
+ESTÁGIO SUPERVISIONADO                            81.82   9.09       9.09
+FLUXOS EM REDES                                   33.33   0.00      66.67
+INFORMÁTICA E SOCIEDADE                           96.15   3.85       0.00
+INGLÊS TÉCNICO E CIENTÍFICO                      100.00   0.00       0.00
+INTELIGÊNCIA ARTIFICIAL                           85.19   0.00      14.81
+INTERFACE HUMANO COMPUTADOR                      100.00   0.00       0.00
+INTRODUÇÃO À LÓGICA                               80.00   7.50      12.50
+INTRODUÇÃO À METODOLOGIA CIENTÍFICA               92.31   3.85       3.85
+LABORATÓRIO DE PROGRAMAÇÃO                        96.15   0.00       3.85
+LINGUAGENS DE PROGRAMAÇÃO                         86.49   0.00      13.51
+MATEMÁTICA DISCRETA                               96.30   0.00       3.70
+MÉTODOS NUMÉRICOS                                 33.33  33.33      33.33
+PROBABILIDADE E ESTATÍSTICA                       91.67   2.78       5.56
+PROCESSAMENTO DE LINGUAGEM NATURAL                75.00   8.33      16.67
+PROCESSAMENTO DIGITAL DE IMAGENS                  92.00   0.00       8.00
+PROGRAMAÇÃO ESTRUTURADA                           79.07   4.65      16.28
+PROGRAMAÇÃO FUNCIONAL                             86.36   4.55       9.09
+PROGRAMAÇÃO LINEAR                                85.71   0.00      14.29
+PROGRAMAÇÃO ORIENTADA A OBJETOS                   73.17   2.44      24.39
+PROJETO E ANÁLISE DE ALGORITMOS                   88.89   0.00      11.11
+REDES DE COMPUTADORES                             88.00   4.00       8.00
+REDES DE COMUNICAÇÃO SEM FIO                     100.00   0.00       0.00
+REDES NEURAIS ARTIFICIAIS                         37.50  12.50      50.00
+RELAÇÕES ÉTNICO-RACIAIS, GÊNERO E DIVERSIDADE     87.50   6.25       6.25
+SEGURANÇA EM SISTEMAS                             78.57   3.57      17.86
+SEMINÁRIOS DE INTRODUÇÃO AO CURSO                100.00   0.00       0.00
+SISTEMAS DISTRIBUÍDOS                             89.66   6.90       3.45
+SISTEMAS EMBARCADOS                               85.71   7.14       7.14
+SISTEMAS OPERACIONAIS                             88.46   0.00      11.54
+TEORIA DA COMPUTAÇÃO                              80.65   3.23      16.13
+TEORIA E APLICAÇÕES EM GRAFOS                     96.00   0.00       4.00
+TRABALHO DE CONCLUSÃO DE CURSO I - TCC I          83.33  11.11       5.56
+TRABALHO DE CONCLUSÃO DE CURSO II - TCC II        96.15   3.85       0.00
+TRABLO DE CONCLUSÃO DE CURSO II - TCC II          50.00  50.00       0.00
+TÓPICOS EM ARQUITETURA DE COMPUTADORES            86.67  13.33       0.00
+TÓPICOS EM BIOINFORMÁTICA                        100.00   0.00       0.00
+TÓPICOS EM COMPUTAÇÃO APLICADA                    92.86   0.00       7.14
+TÓPICOS EM ENGENHARIA DE SOFTWARE                 88.00   4.00       8.00
+TÓPICOS EM PROGRAMAÇÃO                            66.67   0.00      33.33
+TÓPICOS EM REDES DE COMPUTADORES                  91.30   0.00       8.70
+TÓPICOS EM SISTEMAS COMPUTACIONAIS                50.00   0.00      50.00
+VISÃO COMPUTACIONAL                               69.23   7.69      23.08
+ÁLGEBRA LINEAR                                    70.73   7.32      21.95
+
+ -> Insight: A tabela acima mostra a taxa de sucesso de cada disciplina. Ideal para identificar matérias com alta taxa de reprovação.
+
+
+5.2: Média de Notas: Aprovados vs. Reprovados
+-----------------------------------
+            count  mean   std   min   25%   50%   75%    max
+Situação                                                    
+Aprovado   1137.0  8.01  1.24  5.05  7.13  8.03  9.00  10.00
+RF           46.0  5.68  2.11  0.00  4.73  5.93  6.72  10.00
+Reprovado   149.0  4.52  1.32  0.00  3.52  5.13  5.60   5.93
+
+ -> Insight: Comparativo do desempenho (média, mediana, desvio padrão) entre os grupos de aprovados e reprovados no geral.
+
+
+5.3: Relação entre Média da Turma e Taxa de Reprovação
+-----------------------------------
+ -> Coeficiente de Correlação (Pearson) entre Média da Turma e Taxa de Reprovação: -0.4151
+ -> Insight: Um valor fortemente negativo indica que turmas com maiores médias gerais tendem a ter menores taxas de reprovação.
+
